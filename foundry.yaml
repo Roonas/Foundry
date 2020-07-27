@@ -2,6 +2,7 @@ version: '1.15.2'
 imports: []
 mods:
 - name: abnormals-core
+- name: absent-by-design
 - name: ai-improvements
 - name: ambientsounds
 - name: apotheosis
@@ -21,10 +22,12 @@ mods:
 - name: buzzier-bees
 - name: caelus
 - name: campfire-torches
+- name: cleanview
 - name: client-tweaks
 - name: clumps
 - name: cofh-core
 - name: colytra
+- name: collective
 - name: controlling
 - name: cookiecore
 - name: cooking-for-blockheads
@@ -37,10 +40,13 @@ mods:
 - name: curio-of-undying
 - name: curios
 - name: curious-shulker-boxes
+- name: cute-kiwi-birds-new-animal
 - name: dangerousstonecutter
 - name: dash
 - name: decorative-blocks
 - name: ding
+- name: double-slabs
+- name: drp-global-datapack
 - name: easy-elytra-takeoff
 - name: enchantment-descriptions
 - name: endergetic
@@ -57,6 +63,7 @@ mods:
 - name: glasscutter
 - name: goblin-traders
 - name: grindstone-sharper-tools
+- name: guard-villagers
 - name: gui-clock
 - name: gui-compass
 - name: horizontal-glass-panes
@@ -82,12 +89,12 @@ mods:
 - name: named-areas
 - name: natures-compass
 - name: netherportalfix
+- name: no-hostiles-around-campfire
 - name: no-recipe-book
 - name: notes
 - name: overloaded-armor-bar
 - name: patchouli
 - name: peacefulsurface
-- name: persistent-bits
 - name: ping
 - name: placebo
 - name: potion-bundles
@@ -96,9 +103,11 @@ mods:
 # - name: qualitycotton # Seems to have been removed from curseforge?
 - name: quark
 - name: quark-oddities
+- name: reauth
 - name: savage-and-ravage
 - name: save-my-stronghold
 - name: serene-seasons
+- name: simple-chunk-loaders
 - name: simple-farming
 - name: simple-storage-network
 - name: snow-real-magic
@@ -106,7 +115,7 @@ mods:
 - name: storage-drawers
 - name: swamp-expansion
 - name: swingthroughgrass
-- name:tetra
+- name: tetra
 - name: the-one-probe
 - name: tipthescales
 - name: trample-stopper
