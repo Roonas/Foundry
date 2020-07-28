@@ -122,6 +122,7 @@ mods:
 - name: trashslot
 - name: traverse
 - name: upgrade-aquatic
+- name: valkyrielib
 - name: villager-names
 - name: waddles
 - name: waystones
